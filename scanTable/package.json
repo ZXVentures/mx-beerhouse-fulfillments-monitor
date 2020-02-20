@@ -1,0 +1,17 @@
+{
+  "name": "scan_orders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fulfilledOrders.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "fulfilled_orders": "env-cmd -f ./.env node fulfilledOrders.js",
+    "unfulfilled_orders": "env-cmd -f ./.env node unfulfilledOrders.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "env-cmd": "^10.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}

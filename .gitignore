@@ -1,0 +1,10 @@
+# Environment
+.env
+
+# iPython Notebook checkpoints
+.ipynb_checkpoints
+
+# node modules
+node_modules
+
+.DS_Store
