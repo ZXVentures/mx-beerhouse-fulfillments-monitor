@@ -45,7 +45,7 @@ pip3 install --upgrade jupyter notebook
 ## How to run the scripts
 
 ### Configure your environment
-In `/scanTable`, create and fill an `env.yml` file according to the `env-default.yml` sample.
+In `/scanTable`, create and fill an `.env` file according to the `.env-default` sample.
 
 In the same folder, open a terminal and run
 
@@ -70,7 +70,7 @@ You must close the server in your terminal by ending the process with `ctrl + c`
 
 ### Known issues
 
-Sometimes the plot cells do not displays the plot. To fix it you must run again the script in the cell clicking in the `Run button`.
+Sometimes the plot cells do not display the plot. To fix it you must run again the script in the cell clicking in the `Run button`.
 
 ## Mantainers
 * David Enríquez (david.enriquez@zx-ventures.mx)
