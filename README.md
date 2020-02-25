@@ -32,6 +32,7 @@ With pip
 ```
 pip install --upgrade pip
 pip install --upgrade pandas
+pip install --upgrade jupyter matplotlib
 pip install --upgrade jupyter notebook
 ```
 
@@ -39,6 +40,7 @@ With pip3 *recommended*
 ```
 pip3 install --upgrade pip3
 pip3 install --upgrade pandas
+pip3 install --upgrade jupyter matplotlib
 pip3 install --upgrade jupyter notebook
 ```
 
